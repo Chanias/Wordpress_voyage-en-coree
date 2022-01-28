@@ -2,7 +2,7 @@
 https://voyage-en-coree.floriane-siedlecki.fr/
 
 INSTRUCTION DU FORMATEUR :
-Mettre en ligne votre projet
+Imaginer et concevoir sous Wordpress une idée de projet puis le mettre en ligne avec un hébergeur.
 
 a) Création du site
 Vous allez maintenant créer votre propre site vitrine avec Wordpress. Blog, portfolio, site d’agence web ou d’entreprise... A vous de choisir ! Le but est de réaliser le meilleur site possible, afin de l’inclure dans votre Dossier Professionnel.
